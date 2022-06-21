@@ -47,7 +47,7 @@ Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collect
 ## Plant Specimen
 
 Linnaeus further implored English nurseryman James Gordon for live specimens in 1772, to no avail. He was nonetheless susceptible to the awe *Dionaea* inspired, and his incredulity regarding the deadly trapping mechanism might simply be attributed to the lack of necessary empirical evidence. The flattened, dried, and inert specimens he received from correspondents failed to show the speed and precision of the lethal snap-trap in action and understandably inspired the impression of a sleeping eyelid, as Linnaeus described in his letter to Burman.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000558527" label="Lectotype of Hyacinthus orientalis L., George Clifford, Natural History Museum. Cultivated material from the garden of George Clifford III: Hartekamp Garden, Holland.">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.cord00022454" label="Datura stramonium L. from Cordoba, Argentina.">
 
 ## Map
 
