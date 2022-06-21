@@ -34,7 +34,11 @@ _Hyacinthus orientalis_ is a garden ornamental distinguish by its columnar spike
        <param ve-entity eid="Q157428"> <!-- Hyacinthus orientalis -->
 
 If possible, please use digital images and other resources that are free and open access. A list of open access image collections for artworks that are out of copyright can be found [here.](https://www.apollo-magazine.com/open-access-image-libraries-a-handy-list/) Photographs of plants with a Creative Commons license can be accessed on [Openverse](https://wordpress.org/openverse/) and [iNaturalist.](https://www.inaturalist.org/) When uploading a personal image to GitHub, use a [Creative Commons](https://creativecommons.org/licenses/) license.
-<param ve-image url="https://github.com/kristanmhanson/Juncture_training_2/blob/main/Flickr_CC_BY_NC_SA_2.0.jpg?raw=true" label="Hyacinth, Flickr, CC_BY_NC_SA_2.0" fit="cover">
+<param ve-image url="https://github.com/kristanmhanson/Juncture_training_2/blob/main/Flickr_CC_BY_NC_SA_2.0.jpg?raw=true" fit="cover">
+
+Visit the [Visual Essay Image Tag](https://github.com/jstor-labs/juncture/wiki/Visual-Essay-Image-Tag) to learn about customizing image display. The region attribute (region="0,421,3192,2590") is used to show a cropped region of an image in the image viewer. And the fit attribute defines how an image will be scaled or cropped in the image viewer window.
+<param ve-compare curtain manifest="https://iiif.lib.harvard.edu/manifests/drs:493720026" seq="118">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/c5e3bb5b8f05a40314bba386bdc2df7bc32818a04dae348d0450feb3b63c5520" fit="contain">
 
 ## Map
 
