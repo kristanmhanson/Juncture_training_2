@@ -33,8 +33,8 @@ _Hyacinthus orientalis_ is a garden ornamental distinguish by its columnar spike
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ambrosius_Bosschaert_the_Elder_%28Dutch_-_Flower_Still_Life_-_Google_Art_Project.jpg/1280px-Ambrosius_Bosschaert_the_Elder_%28Dutch_-_Flower_Still_Life_-_Google_Art_Project.jpg">
        <param ve-entity eid="Q157428"> <!-- Hyacinthus orientalis -->
        
-Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collection can be accessed [here](https://www.doaks.org/resources/rare-books#c6-operator=or&c7-operator=or&b_start=0). You are welcome to work with our [Rare Book team](https://www.doaks.org/research/library-archives/rare-book-collection) to find something to feature.
-<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
+Linnaeus further implored English nurseryman James Gordon for live specimens in 1772, to no avail. He was nonetheless susceptible to the awe *Dionaea* inspired, and his incredulity regarding the deadly trapping mechanism might simply be attributed to the lack of necessary empirical evidence. The flattened, dried, and inert specimens he received from correspondents failed to show the speed and precision of the lethal snap-trap in action and understandably inspired the impression of a sleeping eyelid, as Linnaeus described in his letter to Burman.
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.g00210232" label="A dried herbarium specimen, similar to the nineteenth-century example shown here, was likely the closest Linnaeus ever got to this predatory plant.">
 
 ## Map
 
