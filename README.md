@@ -33,9 +33,8 @@ _Hyacinthus orientalis_ is a garden ornamental distinguish by its columnar spike
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ambrosius_Bosschaert_the_Elder_%28Dutch_-_Flower_Still_Life_-_Google_Art_Project.jpg/1280px-Ambrosius_Bosschaert_the_Elder_%28Dutch_-_Flower_Still_Life_-_Google_Art_Project.jpg">
        <param ve-entity eid="Q157428"> <!-- Hyacinthus orientalis -->
        
-Visit the [Visual Essay Image Tag](https://github.com/jstor-labs/juncture/wiki/Visual-Essay-Image-Tag) to learn about customizing image display. The region attribute (region="0,421,3192,2590") is used to show a cropped region of an image in the image viewer. And the fit attribute defines how an image will be scaled or cropped in the image viewer window.
-<param ve-compare curtain manifest="https://iiif.lib.harvard.edu/manifests/drs:493720026" seq="118">
-<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/c5e3bb5b8f05a40314bba386bdc2df7bc32818a04dae348d0450feb3b63c5520" fit="contain">
+Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collection can be accessed [here](https://www.doaks.org/resources/rare-books#c6-operator=or&c7-operator=or&b_start=0). You are welcome to work with our [Rare Book team](https://www.doaks.org/research/library-archives/rare-book-collection) to find something to feature.
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 ## Map
 
